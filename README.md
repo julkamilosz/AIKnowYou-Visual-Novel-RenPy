@@ -2,7 +2,7 @@
 
 Krótka gra typu Visual Novel stworzona w ramach projektu akademickiego (Informatyka, semestr III). Projekt bada motyw absolutnej zależności człowieka od sztucznej inteligencji oraz manipulacji psychologicznej.
 
-## 🎮 Zagraj w przeglądarce
+## 🎮 Zagraj
 👉 **https://julkamilosz.itch.io/aiknowyou-psychological-thriller-visual-novel**
 
 ## 🛠️ Technologie i Silnik
